@@ -1,0 +1,17 @@
+# Pastas de build
+target/
+*.class
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+
+# Chaves secretas / propriedades locais
+src/main/resources/application.properties
+
+# Arquivos temporários
+*.tmp
