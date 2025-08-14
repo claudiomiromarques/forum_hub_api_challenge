@@ -80,7 +80,7 @@ api_key=${API_KEY}
 
 Clone este repositório:
 
-git clone https://github.com/seuusuario/forumhub.git
+git clone  https://github.com/claudiomiromarques/forum_hub_api_challenge.git
 
 
 Entre na pasta do projeto:
